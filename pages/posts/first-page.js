@@ -10,8 +10,8 @@ export default function FirstPage() {
         <Image
           src="/images/imsihunpicture.jpg"
           alt="My image"
-          width={500}
-          height={500}
+          width={400}
+          height={400}
         />
       </div>
       <span><ul><h3><li>My hobby is playing the game(league of legend,vallorant,fifa online,genshin impact)and playing the piano</li>
